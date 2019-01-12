@@ -18,3 +18,5 @@ Simple command line tool in Python to get translations from vertalen.nu
 python translator.py cap en fr
 python translator.py boterham nl pt
 ````
+
+Or put in in your path if you don't want to use the Python command :)
