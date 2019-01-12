@@ -1,7 +1,7 @@
 # translator
 Simple command line tool in Python to get translations from vertalen.nu
 
-### Avaibable languages
+### Available languages
 * nl (Nederlands)
 * en (English)
 * fr (Français)
